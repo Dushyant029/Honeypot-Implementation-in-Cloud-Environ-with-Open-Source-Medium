@@ -19,15 +19,21 @@ The foregoing are the research objectives for the study:
 ## Screenshots Walkthrough :- 📷
 
 ### System Architecture Diagram
-
+![image](https://github.com/Dushyant029/Honeypot-Implementation-in-Cloud-Environ-with-Open-Source-Medium/assets/55031190/f80cfac9-3e0f-418a-8797-a1821bf87ae8)
 
 ### Honeypot System
-
+![image](https://github.com/Dushyant029/Honeypot-Implementation-in-Cloud-Environ-with-Open-Source-Medium/assets/55031190/a79a01d6-68aa-453a-99dd-ca9067c89606)
 
 ### AWS Instance Create
-
+![image](https://github.com/Dushyant029/Honeypot-Implementation-in-Cloud-Environ-with-Open-Source-Medium/assets/55031190/f4135a85-5985-4e4e-9bb8-26ae8ed2be25)
+![image](https://github.com/Dushyant029/Honeypot-Implementation-in-Cloud-Environ-with-Open-Source-Medium/assets/55031190/efb25d02-ee61-44f2-8140-e2899f5d1260)
 
 ### Kali linux EC2 Instance
-
+![image](https://github.com/Dushyant029/Honeypot-Implementation-in-Cloud-Environ-with-Open-Source-Medium/assets/55031190/07e3ba00-01b0-40a9-832d-e24633da9eab)
 
 ### Kibana Dashboard
+![image](https://github.com/Dushyant029/Honeypot-Implementation-in-Cloud-Environ-with-Open-Source-Medium/assets/55031190/6d89dc49-821d-499f-845c-94613c599fb7)
+![image](https://github.com/Dushyant029/Honeypot-Implementation-in-Cloud-Environ-with-Open-Source-Medium/assets/55031190/8c70f9fd-6a5c-49bc-8d8f-fd70f124558e)
+
+### Threat Tracks
+![image](https://github.com/Dushyant029/Honeypot-Implementation-in-Cloud-Environ-with-Open-Source-Medium/assets/55031190/9bfa4827-627a-47b2-8274-3b3bb871b3ed)
